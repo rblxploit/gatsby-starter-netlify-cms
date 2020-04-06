@@ -1,56 +1,28 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: RBLXPloit
+image: /img/picture-10741.jpg
+heading: Free Exploits
+subheading: Roblox Exploits by the Community for the Community
 mainpitch:
-  title: Why Kaldi
+  title: Why RBLXPloit ?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    No annoying ads and no secret about how exploits are made. Custom exploits
+    available and we tell you when they get patched and fix them. No adware, no
+    Linkvertise, no Adfly, and the exploits are verified before getting released
+    to check if they are malicious or not.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We check for viruses that the developer might have putted and if they did we
+  will remove them from the downloads. We will also make tutorials on how to
+  create exploits and on the download section we have all the tools to help you
+  make an exploit that is as powerful as the other ones. If you want to publish
+  your exploit, please contact us. Contact information is in the Contact page.
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  blurbs: []
+  heading: What we offer.
+  description: >-
+    I don't know why but looks like you wont see this but we sell scripts
+    lololololol.
 main:
   heading: Great coffee with no compromises
   description: >
